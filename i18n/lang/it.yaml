@@ -1,0 +1,29 @@
+competenze:
+  title: Competenze personali
+  lingue:
+    madre:
+      title: "Lingua madre"
+    altre:
+        title: "Altre lingue"
+        cols: 
+          comprensione: "Comprensione"
+          parlato: "Parlato"
+          scritto: "Scritto"
+        footer: >
+          Livelli: A1/2 Livello base - B1/2 Livello intermedio - C1/2 Livello avanzato
+          <br />
+          Quadro Comune Europeo di Riferimento delle Lingue
+  informatiche:
+    title: "Competenze informatiche"
+  patente:
+    title: "Patende di guida"
+lavoro:
+  title: Esperienze professionali
+istruzione:
+  title: "Istruzione e formazione"
+anagrafica:
+  title: "Personal information"
+  nominativo:
+    title: "Nome Cognome"
+  socials:
+    title: "Contatti social"

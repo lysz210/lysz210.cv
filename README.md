@@ -28,3 +28,4 @@ Il Microfrontend non contiene i dati del CV al suo interno, ma agisce come un gu
 * I file statici vengono sincronizzati su **S3**.
 * Il server Nitro (per i PDF) viene aggiornato su **Lambda**.
 * Viene eseguita l'invalidazione della cache su **CloudFront**.
+ 
